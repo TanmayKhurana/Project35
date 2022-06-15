@@ -13,7 +13,7 @@ function preload(){
 //Function to set initial environment
 function setup() {
 
-   database=firebase.database();
+   database = firebase.database();
 
   createCanvas(1500,700);
 
